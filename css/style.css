@@ -1,0 +1,9 @@
+p{
+    color: blue;
+}
+.texto{
+    margin: 70px;
+    border:  1px solid;
+    border-color: rgb(58, 167, 58);
+    color: black;
+}
